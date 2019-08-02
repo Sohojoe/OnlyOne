@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ProBuilder-API-Examples/Runtime/Icosphere FFT/Audio Visualizer.unity
+    guid: 728c74ce1219442780ea2d3e2a24b05b
   m_configObjects: {}
