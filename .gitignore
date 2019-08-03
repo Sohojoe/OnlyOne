@@ -1,14 +1,26 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Pp]ackages/
-/[Uu]nity[Pp]ackage[Mm]anager/
-/Assets/AssetStoreTools*
-/Assets/Plugins*
-/Assets/Gizmos*
-/Assets/Demonstrations*
+/3D/[Ll]ibrary/
+/3D/[Tt]emp/
+/3D/[Oo]bj/
+/3D/[Bb]uild/
+/3D/[Bb]uilds/
+/3D/[Pp]ackages/
+/3D/[Uu]nity[Pp]ackage[Mm]anager/
+/3D/Assets/AssetStoreTools*
+/3D/Assets/Plugins*
+/3D/Assets/Gizmos*
+/3D/Assets/Demonstrations*
+
+/2D/[Ll]ibrary/
+/2D/[Tt]emp/
+/2D/[Oo]bj/
+/2D/[Bb]uild/
+/2D/[Bb]uilds/
+/2D/[Pp]ackages/
+/2D/[Uu]nity[Pp]ackage[Mm]anager/
+/2D/Assets/AssetStoreTools*
+/2D/Assets/Plugins*
+/2D/Assets/Gizmos*
+/2D/Assets/Demonstrations*
 
 # Tensorflow Model Info
 /models
