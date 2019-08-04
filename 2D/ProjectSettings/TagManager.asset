@@ -42,3 +42,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: dungeon background
+    uniqueID: 2759902219
+    locked: 0
+  - name: dungeon walls
+    uniqueID: 2695506871
+    locked: 0
+  - name: dungeon overlays
+    uniqueID: 232906869
+    locked: 0
+  - name: not-player
+    uniqueID: 1213410867
+    locked: 0
+  - name: Player
+    uniqueID: 631725623
+    locked: 0
+  - name: Top
+    uniqueID: 2790109353
+    locked: 0
